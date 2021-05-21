@@ -1,0 +1,20 @@
+{
+  "files.exclude": {
+    "**/.vscode": false,
+    "**/.DS_Store": true,
+    "**/node_modules": true,
+    "dist": false,
+    "**/.env.local": true,
+    "**/.env.*.local": true,
+    "**/npm-debug.log*": true,
+    "**/yarn-debug.log*": true,
+    "**/yarn-error.log*": true,
+    "**/pnpm-debug.log*": true,
+    "**/.idea": true,
+    "**/*.suo": true,
+    "**/*.ntvs*": true,
+    "**/*.njsproj": true,
+    "**/*.sln": true,
+    "**/*.sw?": true
+  }
+}
